@@ -3,7 +3,7 @@
 **AHA** moments
 - Using skills from frontend web design class to do this
 - How to make a sandwich
-- Realsising eating and drinking is allowed<br>
+- Realising eating and drinking is allowed<br>
 
 **Unclear**
 - How to navigate through terminal <br>
